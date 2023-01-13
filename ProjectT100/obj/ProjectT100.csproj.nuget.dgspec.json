@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeron\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\ProjectT100.csproj": {}
+    "C:\\Users\\nickk\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\ProjectT100.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeron\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\ProjectT100.csproj": {
+    "C:\\Users\\nickk\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\ProjectT100.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeron\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\ProjectT100.csproj",
+        "projectUniqueName": "C:\\Users\\nickk\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\ProjectT100.csproj",
         "projectName": "ProjectT100",
-        "projectPath": "C:\\Users\\Jeron\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\ProjectT100.csproj",
-        "packagesPath": "C:\\Users\\Jeron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeron\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\obj\\",
+        "projectPath": "C:\\Users\\nickk\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\ProjectT100.csproj",
+        "packagesPath": "C:\\Users\\nickk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nickk\\Source\\Repos\\JeronCheung\\ProjectT10\\ProjectT100\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jeron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nickk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows"
+          "net5.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,17 +57,10 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -78,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     }
