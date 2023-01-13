@@ -1,5 +1,5 @@
 # ProjectT10
 
-# Trello Bord
+Trello Bord
 https://trello.com/b/XUtaikoF/thema-10-project
 
